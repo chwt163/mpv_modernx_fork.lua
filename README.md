@@ -34,4 +34,6 @@ osc 主题：
 
 4、下载 osc.conf 文件放置于  script-opts 两个文件夹
 
+5、编辑 mpv.conf 文件，添加一行：osc=no 
+
 如果是原版 mpv，则无需新建 portable_config 文件夹，直接新建 scripts 和 script-opts 两个文件夹即可
