@@ -12,7 +12,7 @@
 
 先安装 mpv.net，替换 input.conf 即可。
 
-input.conf 一般放在以下路径，选其一即可：
+input.conf 一般放在以下路径，选其一：
 
 1、程序启动目录\portable_config\ 
 
