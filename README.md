@@ -1,4 +1,4 @@
-# mpv.net-Right-click-menu-CN  && mpv osc.lua
+# mpv.net Right click menu CN  && mpv osc.lua
 
 
 ![mpvnet](https://user-images.githubusercontent.com/70951194/148356351-5a9f0adb-0c1b-4399-bbb5-2cf9f36af2e9.png)
