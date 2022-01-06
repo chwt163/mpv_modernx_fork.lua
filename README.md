@@ -1,7 +1,8 @@
 # mpv.net-Right-click-menu-CN
 
 
-![mpv net](https://user-images.githubusercontent.com/70951194/144366934-887454cf-cf47-48bf-adb7-38695e39a6a9.png)
+![mpvnet](https://user-images.githubusercontent.com/70951194/148343777-0aec84f7-f975-42a5-a4c5-cd092b4539d9.png)
+
 
 
 
