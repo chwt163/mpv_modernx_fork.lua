@@ -18,7 +18,7 @@ input.conf 一般放在以下路径，选其一：
 
 2、C:\Users\%USERNAME%\AppData\Roaming\mpv.net\
 
-或者直接从右键菜单中打开： Settings > Open Config Folder
+也可以直接从 mpv.net 的右键菜单中打开配置文件夹： Settings > Open Config Folder
 
 * 部分菜单内容参考了 mpv.net_CM 项目
 
