@@ -28,7 +28,7 @@ input.conf 一般放在以下路径，选其一：
 
 # 设定 osc 主题：
 
-本 osc.lua 支持 mpv 和 mpv.net
+mpv.net 兼容 mpv osc.lua
 
 1、在 mpv.net 的程序文件夹里面新建 portable_config 文件夹
 
