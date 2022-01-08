@@ -34,10 +34,10 @@ mpv.net 兼容 mpv osc.lua
 
 2、在 portable_config 里面新建 scripts 和 script-opts 两个文件夹
 
-3、下载 osc.lua 文件放在 scripts 文件夹
+3、下载 osc.lua 放在 scripts 文件夹
 
-4、下载 osc.conf 文件放在  script-opts 文件夹
+4、下载 osc.conf 放在  script-opts 文件夹
 
-5、打开 mpv.conf 文件，编辑或添加：osc=no 
+5、打开 mpv.conf，编辑或添加：osc=no 
 
 如果是 mpv，则无需 portable_config 文件夹，直接新建 scripts 和 script-opts 两个文件夹即可
