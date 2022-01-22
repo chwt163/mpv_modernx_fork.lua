@@ -28,7 +28,9 @@ input.conf 一般放在以下路径，选其一：
 
 # 设定 osc 主题：
 
-mpv.net 兼容 mpv osc.lua
+mpvnet 和 mpv 的 osc 主题是通用的
+
+mpv.net：
 
 1、在 mpv.net 的程序文件夹里面新建 portable_config 文件夹
 
@@ -38,6 +40,10 @@ mpv.net 兼容 mpv osc.lua
 
 4、下载 osc.conf 放在  script-opts 文件夹
 
-5、打开 mpv.conf，编辑或添加：osc=no 
+5、下载 mpv.conf，放在 portable_config 文件夹，或者直接编辑已有的 mpv.conf，添加内容：osc = no
 
-如果是 mpv，则无需 portable_config 文件夹，直接新建 scripts 和 script-opts 两个文件夹即可
+
+
+mpv：
+
+无需 portable_config 文件夹，直接第 2 3 4 步骤，mpv.conf 放程序目录
