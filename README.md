@@ -51,7 +51,7 @@ mpv：
 
 
 
-# 打包了整个 mpvnet 程序，解压即可使用：
+# 懒人版已打好包，解压即可：
 
 https://github.com/chwt163/Mpv.netRrightClickMenuCN/releases
 
