@@ -51,7 +51,7 @@ mpv：
 
 
 
-# 懒人版已打好包，解压即可：
+# 打包好的懒人版，解压即可：
 
 https://github.com/chwt163/Mpv.netRrightClickMenuCN/releases
 
