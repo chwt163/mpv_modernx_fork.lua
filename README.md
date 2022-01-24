@@ -47,3 +47,11 @@ mpv.net：
 mpv：
 
 无需 portable_config 文件夹，直接第 2 3 4 步骤，mpv.conf 放程序目录
+
+
+
+
+# 打包了整个 mpvnet 程序，解压即可使用：
+
+https://github.com/chwt163/Mpv.netRrightClickMenuCN/releases
+
