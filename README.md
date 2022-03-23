@@ -1,7 +1,8 @@
 # Mpv.net right click menu CN  && mpv osc.lua
 
 
-![mpvnet](https://user-images.githubusercontent.com/70951194/148356351-5a9f0adb-0c1b-4399-bbb5-2cf9f36af2e9.png)
+![无标题](https://user-images.githubusercontent.com/70951194/159644297-7f7891d5-cb50-4e35-8a27-e4f8d1c31368.png)
+
 
 
 
