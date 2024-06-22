@@ -42,9 +42,9 @@ mpvnet 和 mpv 的 osc 主题是通用的
 
 5、下载字体放在 fonts 文件夹：
 
-https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Round.ttf
+[Material-Design-Iconic-Round.ttf](https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Round.ttf)
 
-https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Font.ttf
+[Material-Design-Iconic-Font.ttf](https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Font.ttf)
 
 6、下载 mpv.conf，放在 portable_config 文件夹，或者直接编辑已有的 mpv.conf，添加内容：osc = no
 
@@ -52,7 +52,7 @@ https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Desi
 
 # mpv：
 
-无需 portable_config 文件夹，直接在 mpv 程序目录里面新建 scripts 和 script-opts 以及 fonts 三个文件夹，然后进行第 3、4、5、6 步骤，mpv.conf 放程序目录
+无需 portable_config 文件夹，直接在 mpv 程序目录里面新建 scripts 和 script-opts 以及 fonts 三个文件夹，然后进行第 3、4、5、6 步骤，mpv.conf 直接放在程序目录。
 
 
 
