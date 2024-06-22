@@ -17,6 +17,7 @@ Forked from [ModernX](https://github.com/zydezu/ModernX)
 # mpv：
 
 1、在 mpv 程序文件夹里面新建 scripts 和 script-opts 以及 fonts 三个文件夹。
+
 mpv 本身是绿色免安装软件，把这三个文件夹放在 mpv 的程序文件夹里面，或者放在用户配置文件夹 `\%APPDATA%\mpv\` ，都是可以的，如果是 Linux/MacOS 系统，则放在 `~/.config/mpv/` 里面
 
 2、下载 modernx-fork.lua 放在 scripts 文件夹
