@@ -4,8 +4,7 @@
 ![mpv](https://github.com/chwt163/Mpv.netRrightClickMenuCN/assets/70951194/e752e6a3-d2ea-43b7-8dac-ea6d477e5b00)
 
 
-
-
+![1](https://github.com/chwt163/Mpv.netRrightClickMenuCN/assets/70951194/26be7888-003a-4222-ad11-85594cef6b41)
 
 
 
