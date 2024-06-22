@@ -30,7 +30,10 @@ mpv 本身是绿色免安装软件，把上面三个文件夹放在 mpv 的程�
 
 [Material-Design-Iconic-Font.ttf](https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Font.ttf)
 
-5、下载 mpv.conf 直接放在程序目录
+5、编辑 mpv.conf，添加：
+```
+osc = no
+```
 
 
 
@@ -53,7 +56,10 @@ mpvnet 和 mpv 的 osc 主题是通用的，mpvnet 只是多了一个 portable_c
 
 [Material-Design-Iconic-Font.ttf](https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Font.ttf)
 
-6、下载 mpv.conf，放在 portable_config 文件夹
+6、编辑 mpv.conf，添加：
+```
+osc = no
+```
 
 
 
