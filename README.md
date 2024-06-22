@@ -1,11 +1,11 @@
-# modernx-fork.lua osc 主题：
+# modernx_fork.lua osc主题：
 
 Forked from [ModernX](https://github.com/zydezu/ModernX)
 
 ![mpv](https://github.com/chwt163/Mpv.netRrightClickMenuCN/assets/70951194/e752e6a3-d2ea-43b7-8dac-ea6d477e5b00)
 
 
-# Mpv.net 右键菜单：
+# mpv.net 右键菜单：
 
 
 ![1](https://github.com/chwt163/Mpv.netRrightClickMenuCN/assets/70951194/26be7888-003a-4222-ad11-85594cef6b41)
@@ -38,7 +38,7 @@ osc = no
 
 # mpv.net：
 
-mpvnet 和 mpv 的 osc 主题是通用的，mpvnet 只是多了一个 `portable_config` 文件夹
+mpv.net 和 mpv 的 osc 主题是通用的，mpv.net 只是多了一个 `portable_config` 文件夹
 
 1、在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹
 
@@ -59,7 +59,7 @@ osc = no
 
 
 
-# 设定 mpv.net 中文右键菜单（新版 mpvnet 已经原生支持中文菜单）：
+# 设定 mpv.net 中文右键菜单（新版 mpv.net 已经原生支持中文菜单）：
 
 先安装 mpv.net，替换 `input.conf` 即可。
 
