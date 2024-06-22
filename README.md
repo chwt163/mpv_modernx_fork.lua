@@ -63,7 +63,7 @@ osc = no
 
 先安装 mpv.net，替换 `input.conf` 即可。
 
-input.conf 一般放在以下路径，选其一：
+`input.conf` 一般放在以下路径，选其一：
 
 1、程序文件夹： `portable_config`
 
