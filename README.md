@@ -53,7 +53,7 @@ https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Desi
 
 # mpv：
 
-无需 portable_config 文件夹，直接第 2 3 4 步骤，mpv.conf 放程序目录
+无需 portable_config 文件夹，直接在 mpv 程序目录里面新建 scripts 和 script-opts 以及 fonts 三个文件夹，然后进行第 3、4、5、6 步骤，mpv.conf 放程序目录
 
 
 
