@@ -37,7 +37,7 @@ mpv.net：
 
 2、在 portable_config 里面新建 scripts 和 script-opts 两个文件夹
 
-3、下载 osc.lua 放在 scripts 文件夹
+3、下载 modernx-fork.lua 放在 scripts 文件夹
 
 4、下载 osc.conf 放在  script-opts 文件夹
 
@@ -52,7 +52,4 @@ mpv：
 
 
 
-# 打包好的懒人版，解压即可：
-
-https://github.com/chwt163/Mpv.netRrightClickMenuCN/releases
 
