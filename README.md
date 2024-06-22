@@ -20,7 +20,7 @@ Forked from [ModernX](https://github.com/zydezu/ModernX)
 
 mpv 本身是绿色免安装软件，把上面两个文件夹放在 mpv 的程序文件夹里面，或者放在用户配置文件夹 `\%APPDATA%\mpv\` ，都是可以的，如果是 Linux/MacOS 系统，则放在 `~/.config/mpv/` 里面
 
-2、下载 [modernx-fork.lua](https://github.com/chwt163/Mpv.net_RrightClickMenuCN_modernx-fork.lua/raw/main/modernx-fork.lua) 放在 `scripts` 文件夹
+2、下载 `modernx-fork.lua` 放在 `scripts` 文件夹
 
 3、下载字体文件放在 `fonts` 文件夹：
 
@@ -44,7 +44,7 @@ mpvnet 和 mpv 的 osc 主题是通用的，mpvnet 只是多了一个 `portable_
 
 2、在 `portable_config` 里面新建 `scripts` 和  `fonts` 两个文件夹
 
-3、下载 [modernx-fork.lua](https://github.com/chwt163/Mpv.net_RrightClickMenuCN_modernx-fork.lua/raw/main/modernx-fork.lua) 放在 `scripts` 文件夹
+3、下载 `modernx-fork.lua` 放在 `scripts` 文件夹
 
 4、下载字体放在 `fonts` 文件夹：
 
