@@ -47,7 +47,7 @@ https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Desi
 
 https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Font.ttf
 
-5、下载 mpv.conf，放在 portable_config 文件夹，或者直接编辑已有的 mpv.conf，添加内容：osc = no
+6、下载 mpv.conf，放在 portable_config 文件夹，或者直接编辑已有的 mpv.conf，添加内容：osc = no
 
 
 
