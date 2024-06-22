@@ -9,7 +9,7 @@
 
 
 
-# 设定 mpv.net 中文右键菜单：
+# 设定 mpv.net 中文右键菜单（新版 mpvnet 已经原生支持中文菜单）：
 
 先安装 mpv.net，替换 input.conf 即可。
 
@@ -31,7 +31,7 @@ input.conf 一般放在以下路径，选其一：
 
 mpvnet 和 mpv 的 osc 主题是通用的
 
-mpv.net：
+# mpv.net：
 
 1、在 mpv.net 的程序文件夹里面新建 portable_config 文件夹
 
@@ -45,7 +45,7 @@ mpv.net：
 
 
 
-mpv：
+# mpv：
 
 无需 portable_config 文件夹，直接第 2 3 4 步骤，mpv.conf 放程序目录
 
