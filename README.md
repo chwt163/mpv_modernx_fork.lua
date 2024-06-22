@@ -1,7 +1,7 @@
 # Mpv.net right click menu CN  && mpv osc.lua
 
 
-![无标题](https://user-images.githubusercontent.com/70951194/159644297-7f7891d5-cb50-4e35-8a27-e4f8d1c31368.png)
+![mpv](https://github.com/chwt163/Mpv.netRrightClickMenuCN/assets/70951194/e752e6a3-d2ea-43b7-8dac-ea6d477e5b00)
 
 
 
