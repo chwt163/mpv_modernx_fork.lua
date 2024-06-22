@@ -35,11 +35,15 @@ mpvnet 和 mpv 的 osc 主题是通用的
 
 1、在 mpv.net 的程序文件夹里面新建 portable_config 文件夹
 
-2、在 portable_config 里面新建 scripts 和 script-opts 两个文件夹
+2、在 portable_config 里面新建 scripts 和 script-opts 以及 fonts 三个文件夹
 
 3、下载 modernx-fork.lua 放在 scripts 文件夹
 
 4、下载 osc.conf 放在  script-opts 文件夹
+
+5、下载字体放在 fonts 文件夹：
+https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Round.ttf
+https://github.com/chwt163/Mpv.netRrightClickMenuCN/raw/main/fonts/Material-Design-Iconic-Font.ttf
 
 5、下载 mpv.conf，放在 portable_config 文件夹，或者直接编辑已有的 mpv.conf，添加内容：osc = no
 
