@@ -5,13 +5,6 @@ Forked from [ModernX](https://github.com/zydezu/ModernX)
 ![mpv](https://github.com/chwt163/Mpv.netRrightClickMenuCN/assets/70951194/e752e6a3-d2ea-43b7-8dac-ea6d477e5b00)
 
 
-# mpv.net 右键菜单：
-
-
-![1](https://github.com/chwt163/Mpv.netRrightClickMenuCN/assets/70951194/26be7888-003a-4222-ad11-85594cef6b41)
-
-
-
 # 设定 osc 主题：
 
 # mpv：
@@ -59,17 +52,6 @@ osc = no
 
 
 
-# 设定 mpv.net 中文右键菜单（新版 mpv.net 已经原生支持中文菜单）：
-
-先安装 mpv.net，替换 `input.conf` 即可。
-
-`input.conf` 一般放在以下路径，选其一：
-
-1、程序目录里的 `portable_config` 文件夹
-
-2、用户配置目录 `\%APPDATA%\mpv.net\`
-
-也可以直接从 mpv.net 的右键菜单中打开配置文件夹： Settings > Open Config Folder
 
 
 
