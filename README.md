@@ -5,7 +5,7 @@ Forked from [ModernX](https://github.com/zydezu/ModernX)
 ![mpv](https://github.com/chwt163/Mpv.netRrightClickMenuCN/assets/70951194/e752e6a3-d2ea-43b7-8dac-ea6d477e5b00)
 
 
-# 设定 osc 主题：
+# 安装 osc 主题：
 
 # mpv：
 
