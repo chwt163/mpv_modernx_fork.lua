@@ -65,7 +65,7 @@ osc = no
 
 `input.conf` 一般放在以下路径，选其一：
 
-1、程序文件夹： `portable_config`
+1、程序目录里的 `portable_config` 文件夹
 
 2、用户配置目录 `\%APPDATA%\mpv.net\`
 
