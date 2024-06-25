@@ -31,11 +31,11 @@ osc = no
 
 # mpv.net：
 
-mpv.net 和 mpv 的 osc 主题是通用的，mpv.net 只是多了一个 `portable_config` 文件夹。
+mpv.net 兼容通用 mpv 的 `osc.lua` 主题和 `mpv.conf`。mpv.net 的配置文件默认是放在 `\%APPDATA%\mpv.net\` 里面，但是，可以在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹，然后把配置文件都放在这里。
 
 1、在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹。
 
-2、在 `portable_config` 里面新建 `scripts` 和  `fonts` 两个文件夹。
+2、在 `portable_config` 里面新建 `scripts` 和  `fonts` 两个文件夹，把 `mpv.conf` 也放在这个 `portable_config` 里面。
 
 3、下载 `modernx-fork.lua` 放在 `scripts` 文件夹。
 
