@@ -35,7 +35,7 @@ osc = no
 
 mpv.net 兼容通用 mpv 的 `osc.lua` 主题和 `mpv.conf`。
 
-mpv.net 同样也是是绿色免安装软件，默认的配置文件是放在 `\%APPDATA%\mpv.net\` 里面，但是，可以在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹，然后把配置文件都放在这里，`mpv.conf` 也是放在这个文件夹里面。
+mpv.net 同样也是是绿色免安装软件，默认的配置文件是放在 `\%APPDATA%\mpv.net\` 里面，但是，可以在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹，然后把配置文件和 `mpv.conf` 都放在这里。
 
 1、在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹。
 
