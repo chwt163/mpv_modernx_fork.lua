@@ -9,9 +9,11 @@ Forked from [ModernX](https://github.com/zydezu/ModernX)
 
 # mpv：
 
-1、在 mpv 程序文件夹里面新建 `scripts` 和 `fonts` 两个文件夹。
+mpv 本身是绿色免安装软件，把配置文件放在 mpv 的程序文件夹，或者放在用户配置文件夹 `\%APPDATA%\mpv\` ，都是可以的，`mpv.conf` 和 `input.conf` 也可以直接放在程序文件夹。
 
-mpv 本身是绿色免安装软件，把上述两个文件夹放在 mpv 的程序文件夹，或者放在用户配置文件夹 `\%APPDATA%\mpv\` ，都是可以的，如果是 Linux/MacOS 系统，则放在 `~/.config/mpv/` 里面。
+如果是 Linux/MacOS 系统，配置文件则放在 `~/.config/mpv/` 里面。
+
+1、在 mpv 程序文件夹里面新建 `scripts` 和 `fonts` 两个文件夹。
 
 2、下载 `modernx-fork.lua` 放在 `scripts` 文件夹。
 
@@ -31,7 +33,9 @@ osc = no
 
 # mpv.net：
 
-mpv.net 兼容通用 mpv 的 `osc.lua` 主题和 `mpv.conf`。mpv.net 的配置文件默认是放在 `\%APPDATA%\mpv.net\` 里面，但是，可以在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹，然后把配置文件都放在这里。
+mpv.net 兼容通用 mpv 的 `osc.lua` 主题和 `mpv.conf`。
+
+mpv.net 同样也是是绿色免安装软件，默认的配置文件是放在 `\%APPDATA%\mpv.net\` 里面，但是，可以在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹，然后把配置文件都放在这里，`mpv.conf` 也是放在这个文件夹里面。
 
 1、在 mpv.net 的程序文件夹里面新建 `portable_config` 文件夹。
 
